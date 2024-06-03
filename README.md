@@ -1,5 +1,7 @@
 # Past and Current Projects
 
-### Python
+## Python
 
-### R
+[Discord Timer bot](https://github.com/Always-lemons/discord-bot/tree/master)
+
+## R
