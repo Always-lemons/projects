@@ -3,6 +3,8 @@
 ## Python
 
 [Discord Timer bot](https://github.com/Always-lemons/discord-bot/tree/master)
+[Kaggle Playground Series: Regression Of Used Car Prices](https://www.kaggle.com/code/christophjaeger/regression-of-used-car-prices)
+
 
 ## R
 
