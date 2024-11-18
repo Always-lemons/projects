@@ -4,6 +4,7 @@
 
 [Discord Timer bot](https://github.com/Always-lemons/discord-bot/tree/master)<br/>
 [Kaggle Playground Series: Regression Of Used Car Prices](https://www.kaggle.com/code/christophjaeger/regression-of-used-car-prices)
+[Kaggle Playground Series: Loan Approval Prediction](https://www.kaggle.com/code/christophjaeger/loan-approval)
 
 ## R
 
